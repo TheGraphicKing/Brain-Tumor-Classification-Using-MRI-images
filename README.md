@@ -4,22 +4,28 @@
 This project focused on developing a machine learning model to classify brain tumors using MRI images, aiming to assist medical professionals in diagnosing various types of brain tumors with high accuracy.
 
 #### Table of Contents
-- [Overview](#Overview)
-- [Dataset](#Dataset)
-- [Data Preprocessing](#DataPreprocessing)
-- [Model Arichitecture](#ModelArchitecture)
-- [Frameworks and Libraries](#FrameworksandLibraries)
-- [Training and Validation](#TrainingandValidation)
-- [Performance Metrics](#PerformanceMetrics)
-- [Results](#Results)
-- [Challenges and Future Work](#ChallengesandFutureWork)
-- [Conclusion](#Conclusion)
+- [Overview](#overview)
+- [Dataset](#dataset)
+- [Data Preprocessing](#data-preprocessing)
+- [Model Architecture](#model-architecture)
+- [Frameworks and Libraries](#frameworks-and-libraries)
+- [Training and Validation](#training-and-validation)
+- [Performance Metrics](#performance-metrics)
+- [Results](#results)
+- [Challenges and Future Work](#challenges-and-future-work)
+- [Conclusion](#conclusion)
+
 #### User Interface
 #### Home Screen
 ![image](https://github.com/user-attachments/assets/b22acbb3-0e92-438e-a76c-197775c5afd2)
-Upload Image Screen
-![image](https://github.com/user-attachments/assets/5360edaa-df28-4e67-b6d0-e32f6e863373)
-Result Analysis screen
+#### Upload Image Screen
+![image](https://github.com/user-attachments/assets/5b883e63-3526-4a31-bb1d-537bbad9061d)
+#### Result Analysis Screen
+![image](https://github.com/user-attachments/assets/193baec7-8a5b-4565-88d0-10f4d7e19d13)
+#### Patient History Screen
+![image](https://github.com/user-attachments/assets/e9b6ccd1-3e20-4450-b160-bd46f0f88e67)
+#### Threshold Limit Screen
+![image](https://github.com/user-attachments/assets/8065b598-8548-4c58-9889-0b90c58f1ef6)
 
 #### Dataset
 - **Source:** Publicly available MRI brain scan datasets.
